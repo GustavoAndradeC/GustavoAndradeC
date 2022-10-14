@@ -5,9 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1GustavoAndrade&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1GustavoAndrade&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Gustavo-DC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" />
+  <img align="center" alt="Gustavo-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center" alt="Gustavo-DC" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   
   ##
  
