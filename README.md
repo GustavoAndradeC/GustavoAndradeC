@@ -1,14 +1,13 @@
-## Olá eu sou o Gustavo Andrade
+## Olá eu sou o Gustavo Andrade 👨‍💻
+
 <div align="center">
   <a href="https://github.com/1GustavoAndrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1GustavoAndrade&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1GustavoAndrade&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1GustavoAndrade&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1GustavoAndrade&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Gustavo-DC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" />
-  <img align="right" alt="Gustavo-PIC" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
   
   ##
  
