@@ -1,9 +1,9 @@
 ## Olá eu sou o Gustavo Andrade 👨‍💻
 
 <div align="center">
-  <a href="https://github.com/1GustavoAndrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1GustavoAndrade&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1GustavoAndrade&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <a href="https://github.com/GustavoAndradeC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoAndradeC&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndradeC&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
 <div style="display: inline_block"><br>
