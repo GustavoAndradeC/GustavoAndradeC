@@ -1,7 +1,7 @@
 
 ## About Me
 
-  I'm Gustavo Andrade, an 20-year-old developer working mainly with Java (Spring), JavaScript, and Angular to build efficient and scalable web applications.
+  I'm Gustavo Andrade, a software developer focused on Java and Spring, JavaScript/TypeScript, and Angular, building efficient and scalable web applications.
 
 ## Skills 
 
@@ -11,7 +11,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)]()
 ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
